@@ -32,7 +32,7 @@ class SwaggerConfig {
     }
 
     private fun apiInfo(): ApiInfo? {
-        return ApiInfoBuilder().title("Demo API")
+        return ApiInfoBuilder().title("Demo Product API")
             .description("")
             .version("1.0")
             .build()
