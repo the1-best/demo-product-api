@@ -1,4 +1,4 @@
-package com.example.demo.service.product
+package com.example.demo.product.api
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

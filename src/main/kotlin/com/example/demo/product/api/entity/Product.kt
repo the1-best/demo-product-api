@@ -1,4 +1,4 @@
-package com.example.demo.service.product.entity
+package com.example.demo.product.api.entity
 
 class Product {
     var id: String? = null

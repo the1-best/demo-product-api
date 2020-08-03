@@ -1,4 +1,4 @@
-package com.example.demo.service.product.config
+package com.example.demo.product.api.config
 
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.context.annotation.Bean

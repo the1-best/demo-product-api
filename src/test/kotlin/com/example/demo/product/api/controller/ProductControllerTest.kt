@@ -1,7 +1,7 @@
-package com.example.demo.service.product.controller
+package com.example.demo.product.api.controller
 
-import com.example.demo.service.product.entity.Product
-import com.example.demo.service.product.entity.Response
+import com.example.demo.product.api.entity.Product
+import com.example.demo.product.api.entity.Response
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import org.junit.jupiter.api.Test
